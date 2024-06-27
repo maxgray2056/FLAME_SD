@@ -12,8 +12,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 - **Content:** 10,000 RGB images, each paired with binary masks and metadata.
 - **Quality Control:** CLIP-based filtering ensures high confidence and relevance of wildfire content.
-
-- **Dataset and Code:** Available at [GitHub - FLAME_SD](https://arazi2.github.io/aisends.github.io/project/flame)
+- **Dataset:** Download from [Google Drive](https://drive.google.com/drive/folders/1Brt5TvkdTUqJPGtXSLGQNCc3kgk2NygD?usp=sharing)
 
 ---
 
@@ -48,7 +47,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 - **Mask-Guided Control:** Demonstrated effective integration of fire elements into images, maintaining the original style.
 - **Background and Style Control:** Adjusting mask noise and text prompts allowed precise control over image content and style.
 
-For more details, visit the [GitHub - FLAME_SD](https://arazi2.github.io/aisends.github.io/project/flame).
+For more details, visit the [Project Page](https://arazi2.github.io/aisends.github.io/project/flame).
 
 ---
 **Authors:** Hao Wang, Sayed Pedram Haeri Boroujeni, Xiwen Chen, Ashish Bastola, Huayu Li, Wenhui Zhu, and Abolfazl Razi

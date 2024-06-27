@@ -10,8 +10,8 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 <img src="./Figure/sample.jpg" width=70%>
 
-- **Content:** 10,000 RGB images, each paired with binary masks and metadata.
-- **Quality Control:** CLIP-based filtering ensures high confidence and relevance of wildfire content.
+- **Content:** 10,000 RGB Synthesized images, each paired with binary masks and metadata.
+- **Quality Control Tool:** CLIP-based filtering ensures high confidence and relevance of wildfire content.
 - **Dataset:** Download from [Google Drive](https://drive.google.com/drive/folders/1Brt5TvkdTUqJPGtXSLGQNCc3kgk2NygD?usp=sharing)
 
 ---

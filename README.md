@@ -28,7 +28,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## Methodology
 
-<img src="./Figure/FLAME_SD/frame.png" width="500px">
+<img src="./Figure/frame.png" width="500px">
 
 1. **Mask Generation:** 
    - Masks are generated to define areas for fire elements using fundamental shapes like rectangles and circles.
@@ -43,7 +43,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## Experimental Results
 
-<img src="./Figure/FLAME_SD/sample_2.jpg" width="500px">
+<img src="./Figure/sample_2.jpg" width="500px">
 
 - **Mask-Guided Control:** Demonstrated effective integration of fire elements into images, maintaining the original style.
 - **Background and Style Control:** Adjusting mask noise and text prompts allowed precise control over image content and style.

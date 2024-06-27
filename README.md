@@ -1,5 +1,5 @@
 
-# NEW: FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion
+# FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## FLAME-SD Dataset
 
-<img src="./Figure/sample.jpg" width="500px">
+<img src="./Figure/sample.jpg" width=70%>
 
 - **Content:** 10,000 RGB images, each paired with binary masks and metadata.
 - **Quality Control:** CLIP-based filtering ensures high confidence and relevance of wildfire content.
@@ -28,7 +28,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## Methodology
 
-<img src="./Figure/frame.png" width="500px">
+<img src="./Figure/frame.png" width=100%>
 
 1. **Mask Generation:** 
    - Masks are generated to define areas for fire elements using fundamental shapes like rectangles and circles.
@@ -43,7 +43,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## Experimental Results
 
-<img src="./Figure/sample_2.jpg" width="500px">
+<img src="./Figure/sample_2.jpg" width=100%>
 
 - **Mask-Guided Control:** Demonstrated effective integration of fire elements into images, maintaining the original style.
 - **Background and Style Control:** Adjusting mask noise and text prompts allowed precise control over image content and style.

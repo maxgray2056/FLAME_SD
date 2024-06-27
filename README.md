@@ -52,6 +52,6 @@ For more details, visit the [Project Page](https://arazi2.github.io/aisends.gith
 ---
 **Authors:** Hao Wang, Sayed Pedram Haeri Boroujeni, Xiwen Chen, Ashish Bastola, Huayu Li, Wenhui Zhu, and Abolfazl Razi
 **Affiliations:** Clemson University, The University of Arizona, Arizona State University
-**Corresponding Author:** Abolfazl Razi (Email: [contact information])
+**Corresponding Author:** Abolfazl Razi (Email: <arazi@clemson.edu>)
 
 **Funding:** This project is supported by the National Science Foundation under Grant Number CNS-2204445. Special thanks to USDA Forest Service and Kaibab National Forest administration.
